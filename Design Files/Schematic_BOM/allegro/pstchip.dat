@@ -1,0 +1,309 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.6.0 d001Oct-17-2014 at 10:38:03}
+primitive 'CAP NP_C2421_10UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='C2421';
+    VALUE='10uF';
+  end_body;
+end_primitive;
+primitive 'CAP_VER_C0603_TBD';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP_VER';
+    JEDEC_TYPE='C0603';
+    VALUE='TBD';
+  end_body;
+end_primitive;
+primitive 'CAP NP_C0603_6800PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='C0603';
+    VALUE='6800pF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_C0603_0.1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='C0603';
+    VALUE='0.1uF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_C1206_100UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='C1206';
+    VALUE='100uF';
+  end_body;
+end_primitive;
+primitive 'CAP_VER_C1210_TBD';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP_VER';
+    JEDEC_TYPE='C1210';
+    VALUE='TBD';
+  end_body;
+end_primitive;
+primitive 'DIODE TVS_DO-214AB_TBD';
+  pin
+    'ANODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE TVS';
+    JEDEC_TYPE='DO-214AB';
+    VALUE='TBD';
+  end_body;
+end_primitive;
+primitive 'DIODE SCHOTTKY_3_SC-63_RB095B-9';
+  pin
+    'A1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'A2':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE SCHOTTKY_3';
+    JEDEC_TYPE='SC-63';
+    VALUE='RB095B-90TL';
+  end_body;
+end_primitive;
+primitive 'CONN PCB 3X1_2.100"_HDR_THVT_1X';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN PCB 3x1_2.100"';
+    JEDEC_TYPE='HDR_THVT_1X3_100';
+    VALUE='68000-103HLF';
+  end_body;
+end_primitive;
+primitive 'INDUCTOR_IND-4747-SMD_33UH';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='INDUCTOR';
+    JEDEC_TYPE='IND-4747-SMD';
+    VALUE='33uH';
+  end_body;
+end_primitive;
+primitive 'R_R0603_110K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='R0603';
+    VALUE='110k';
+  end_body;
+end_primitive;
+primitive 'R_R0603_27K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='R0603';
+    VALUE='27k';
+  end_body;
+end_primitive;
+primitive 'R_R0603_10K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='R0603';
+    VALUE='10k';
+  end_body;
+end_primitive;
+primitive 'R_R0603_47K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='R0603';
+    VALUE='47k';
+  end_body;
+end_primitive;
+primitive 'R_R0603_3K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='R0603';
+    VALUE='3k';
+  end_body;
+end_primitive;
+primitive 'R_R0603_750';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='R0603';
+    VALUE='750';
+  end_body;
+end_primitive;
+primitive 'TP_TH_63MIL_RED_TP_TH_TP_TH_63M';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TP_TH_63MIL_RED';
+    JEDEC_TYPE='TP_TH';
+    VALUE='TP_TH_63MIL_RED';
+  end_body;
+end_primitive;
+primitive 'TP_TH_63MIL_BLK_TP_TH_TP_TH_63M';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TP_TH_63MIL_BLK';
+    JEDEC_TYPE='TP_TH';
+    VALUE='TP_TH_63MIL_BLK';
+  end_body;
+end_primitive;
+primitive 'IC_BD9G341EFJ_HTSOP-J8_BD9G341E';
+  pin
+    'LX':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'VC':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'FB':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'RT':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'EN':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'BST':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'TPAD':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='IC_BD9G341EFJ';
+    JEDEC_TYPE='HTSOP-J8';
+    VALUE='BD9G341EFJ';
+  end_body;
+end_primitive;
+END.

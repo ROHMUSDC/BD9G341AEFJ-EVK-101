@@ -1,0 +1,51 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\bd9g341efj-e2evk-101_sch_rev01_2014-10-17.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         ".\bd9g341efj-e2evk-101_sch_rev01_2014-10-17.dsn")
+      (Path "Design Resources"
+         ".\bd9g341efj-e2evk-101_sch_rev01_2014-10-17.dsn" "SCHEMATIC1")
+      (Select "Design Resources"
+         ".\bd9g341efj-e2evk-101_sch_rev01_2014-10-17.dsn" "SCHEMATIC1"
+         "P03: BD9G341EFJ-E2EVK-101"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 264"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1186 25 327")
+        (Scroll "0 40")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KBAHAR\DOCUMENTS\GITHUB\BD9G341EFJ-EVK-101\EVALUATION BOARD DELIVERABLES\REV00\SCHEMATIC_BOM\BD9G341EFJ-E2EVK-101_SCH_REV01_2014-10-17.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P01: TITLE & REV. HISTORY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1211 50 352")
+        (Scroll "0 70")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KBAHAR\DOCUMENTS\GITHUB\BD9G341EFJ-EVK-101\EVALUATION BOARD DELIVERABLES\REV00\SCHEMATIC_BOM\BD9G341EFJ-E2EVK-101_SCH_REV01_2014-10-17.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P03: BD9G341EFJ-E2EVK-101"))))
