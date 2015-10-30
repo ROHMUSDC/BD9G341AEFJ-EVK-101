@@ -11,13 +11,19 @@
 
 ----
 ### Repository Contents
-* Application Note Folder: Contains Draft Version of EVK Application Note
+* User's Guide Folder: Contains User Guide for this EVK
 * Design Files: Contains Board, Gerber, Schematic, and BOM information for this EVK Board
 * Measurement Reports Folder: Contains measurement testing information completed for these EVK Boards
+* RoHS Compliance Folder: Contained RoHS Specific BOM and references to CoCs for parts on this board
 
 ----
 ### Where to Purchase?
 * Digikey: http://www.digikey.com/product-detail/en/BD9G341AEFJ-E2/BD9G341AEFJ-E2CT-ND/5409795
+
+-----
+### FAQ
+* Question: In this repository, I see references to "BD9G341" and "BD9G341A".  What is the correct/valid part number for this board?
+	* Answer: BD9G341A is the corrected and valid part number for this IC.  You can safely assume that references to BD9G341 can be substituted for BD9G341A.
 
 ----
 ### DISCLAIMER
