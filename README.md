@@ -14,10 +14,11 @@
 * Application Note Folder: Contains Draft Version of EVK Application Note
 * Design Files: Contains Board, Gerber, Schematic, and BOM information for this EVK Board
 * Measurement Reports Folder: Contains measurement testing information completed for these EVK Boards
+* RoHS Compliance Folder: Documents showing compliance to the Restriction of Hazardous Substances Directive
 
 ----
 ### Where to Purchase?
-* Digikey: http://www.digikey.com/product-detail/en/BD9G341AEFJ-E2/BD9G341AEFJ-E2CT-ND/5409795
+* http://www.rohm.com/web/global/distribution/-/dinventory/BD9G341AEFJ-E2/sample/0
 
 ----
 ### DISCLAIMER
