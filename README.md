@@ -11,11 +11,10 @@
 
 ----
 ### Repository Contents
-* Application Note Folder: Contains Draft Version of EVK Application Note
 * Design Files: Contains Board, Gerber, Schematic, and BOM information for this EVK Board
 * Measurement Reports Folder: Contains measurement testing information completed for these EVK Boards
-* User's Guide: Contains the User Guide for this EVK
 * RoHS Compliance Folder: Contained RoHS Specific BOM and references to CoCs for parts on this board
+* User's Guide: Contains the User Guide for this EVK
 
 ----
 ### Where to Purchase?
